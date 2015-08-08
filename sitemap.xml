@@ -3,7 +3,18 @@
   
   <url>
     <loc>http://smreed.github.io/</loc>
+    <lastmod>2015-08-08T08:32:53-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smreed.github.io/post/first/</loc>
+    <lastmod>2015-08-08T08:32:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smreed.github.io/about/</loc>
+    <lastmod>2015-08-08T08:32:06-07:00</lastmod>
   </url>
   
 </urlset>
